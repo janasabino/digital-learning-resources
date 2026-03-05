@@ -4,9 +4,27 @@ Une sélection d’outils, de plateformes et de ressources pour le digital learn
 
 Ce dépôt s’inscrit dans une démarche de veille professionnelle sur les outils, pratiques et tendances du digital learning.
 
+Projet réalisé dans le cadre d’un exercice de veille professionnelle en ingénierie pédagogique.
+
 ---
 
-## 📚 Authoring tools
+## 📑 Sommaire
+
+- [Outils auteurs e-learning](#-outils-auteurs-e-learning)
+- [Plateformes LMS](#-plateformes-lms)
+- [Outils d’IA pour la conception pédagogique](#-outils-dia-pour-la-conception-pédagogique)
+- [Création de contenus](#-création-de-contenus)
+- [Learning analytics](#-learning-analytics)
+- [Inspiration & ressources](#-inspiration--ressources)
+- [Newsletters & veille](#-newsletters--veille)
+- [Communautés](#-communautés)
+- [Objectif de cette veille](#-objectif-de-cette-veille)
+- [Contribution](#-contribution)
+
+---
+
+# 📚 Outils auteurs e-learning
+
 Outils permettant de concevoir des modules e-learning interactifs.
 
 - [Articulate Storyline](https://articulate.com/360/storyline) — Outil auteur de référence pour créer des modules e-learning interactifs.
@@ -18,17 +36,19 @@ Outils permettant de concevoir des modules e-learning interactifs.
 
 ---
 
-## 🎓 Learning Management Systems (LMS)
+# 🎓 Plateformes LMS
+
 Plateformes permettant de diffuser et gérer des formations en ligne.
 
-- [Moodle](https://moodle.org) — LMS open source largement utilisé dans l’enseignement et la formation.
+- [Moodle](https://moodle.org) — LMS open source largement utilisé dans l’enseignement et la formation professionnelle.
 - [Docebo](https://www.docebo.com) — LMS orienté entreprise avec automatisation et analytics avancés.
 - [360Learning](https://360learning.com) — Plateforme LMS collaborative axée sur le social learning.
 - [TalentLMS](https://www.talentlms.com) — LMS simple et rapide à déployer pour la formation en ligne.
 
 ---
 
-## 🤖 AI tools for learning design
+# 🤖 Outils d’IA pour la conception pédagogique
+
 Outils utilisant l’intelligence artificielle pour aider à la conception pédagogique.
 
 - [ChatGPT](https://chat.openai.com) — Assistant conversationnel pour générer contenus pédagogiques et idées d’activités.
@@ -38,7 +58,8 @@ Outils utilisant l’intelligence artificielle pour aider à la conception péda
 
 ---
 
-## 🎨 Content creation
+# 🎨 Création de contenus
+
 Outils pour créer des supports pédagogiques visuels ou multimédias.
 
 - [Canva](https://www.canva.com) — Outil de design graphique simple pour supports pédagogiques.
@@ -48,7 +69,8 @@ Outils pour créer des supports pédagogiques visuels ou multimédias.
 
 ---
 
-## 📊 Learning analytics
+# 📊 Learning analytics
+
 Outils permettant d’analyser les données d’apprentissage.
 
 - [Power BI](https://powerbi.microsoft.com) — Outil de visualisation et d’analyse de données.
@@ -57,7 +79,8 @@ Outils permettant d’analyser les données d’apprentissage.
 
 ---
 
-## 📖 Inspiration & resources
+# 📖 Inspiration & ressources
+
 Ressources pour s’informer et développer son expertise en ingénierie pédagogique.
 
 - Blogs spécialisés en digital learning et ingénierie pédagogique.
@@ -67,15 +90,35 @@ Ressources pour s’informer et développer son expertise en ingénierie pédago
 
 ---
 
-## 🎯 Objectif de cette veille
+# 📰 Newsletters & veille
+
+Quelques ressources utiles pour suivre l’actualité du digital learning et de l’EdTech.
+
+- [EdSurge](https://www.edsurge.com) — Actualités et analyses sur l’innovation éducative.
+- [Learning Guild](https://www.learningguild.com) — Articles et ressources pour les professionnels du e-learning.
+- [eLearning Industry](https://elearningindustry.com) — Plateforme de contenus et tendances en digital learning.
+
+---
+
+# 🌍 Communautés
+
+Communautés et réseaux professionnels autour du digital learning.
+
+- [EdTech France](https://edtechfrance.fr) — Association des entreprises françaises de l’EdTech.
+- [Learning Technologies](https://www.learningtechnologies.co.uk) — Événements et ressources autour du learning technologies.
+- [Instructional Design subreddit](https://www.reddit.com/r/instructionaldesign/) — Discussions et partage de pratiques entre concepteurs pédagogiques.
+
+---
+
+# 🎯 Objectif de cette veille
 
 - Identifier les outils utilisés en digital learning  
 - Suivre l’évolution des pratiques pédagogiques  
 - Explorer les nouvelles technologies appliquées à la formation  
-- Maintenir une veille active sur l’écosystème du Digital Learning  
+- Maintenir une veille active sur l’écosystème EdTech  
 
 ---
 
-## 🤝 Contribution
+# 🤝 Contribution
 
 Les suggestions d’outils ou de ressources sont les bienvenues.
